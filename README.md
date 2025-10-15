@@ -1,1 +1,19 @@
-# devopsfromzerotomiddle
+# Ссылки на домашние задания
+
+1. [Архитектура компьютера. Операционная система](https://docs.google.com/document/d/16cyUmKb2WBHkeeW6OFcX1bpfZzRbfS5w2ckrnsJCbKY/edit?usp=sharing)
+2. [Процессы, управление процессами](https://docs.google.com/document/d/1QgrHlb9rZt1MBkMIILsUMfbBA2JIPxXCQ8CIf4xGvqE/edit?usp=sharing)
+3. [Дисковые системы](https://docs.google.com/document/d/1mA2hSIYMWlvKoLtltjJKFxxVvOgaRq2hL2iEENA6rAQ/edit?usp=sharing)
+4. [Основы работы в терминалe ОС Linux](https://docs.google.com/document/d/1_TqonoQVB_JqPyJ1DZoNedMHjHIr-OFqWc-4Q686L2g/edit?usp=sharing)
+5. [Файловые системы](https://docs.google.com/document/d/17IuoGprJ3eA9Q5V0zlJOpY12GSRZ0HGp0vUkG8ihZT8/edit?usp=sharing)
+6. [Загрузка ОС](https://docs.google.com/document/d/1nmaZ5XMteLneOL5vLweiX5fHhZhbW-vXDsUc-AYgqas/edit?usp=sharing)
+7. [Производительность системы. Часть 1](https://docs.google.com/document/d/1bifM4ZM1BulXTZRKG4iv2H9HdDxEqckjaRHv0Xa90KA/edit?usp=sharing)
+8. [Производительность системы. Часть 2](https://docs.google.com/document/d/1-TSwP-yZm1PGVwgibaN0Iiuvobd9dxm7j4HnfEwpfSE/edit?usp=sharing)
+9. [Управление пользователями](https://docs.google.com/document/d/1c32akfRr40fi4dbQmodn06pxsMZER2TufG_Ps3ZIs10/edit?usp=sharing)
+10. [Работа с текстовыми утилитами](https://docs.google.com/document/d/1WOrisVtET4WrZh7w-WjKDJB47xB9f3SU4721zLtI2_Q/edit?usp=sharing)
+11. [Regexp и их использование для синтаксического анализа.](https://docs.google.com/document/d/1clvF8NRK80mS_hNF3rIMfM4zf2hqjFVG1Z38IJF3UIM/edit?usp=sharing)
+12. [Разбор скриптов и и их написание](https://docs.google.com/document/d/1nqh1ULPVi-OSlD_ltj7GeuL5rCdnpYwK7LUJB4ljvpQ/edit?usp=sharing)
+13. [Проектная работа Муртазин И.А. Программирование на Bash](https://docs.google.com/document/d/16s5JdDrnmQI6fOqWB9AXzE_32f3oxvTe/edit?usp=sharing&ouid=105291025856766485704&rtpof=true&sd=true)
+14. [Теоретические основы сети. Модель OSI и TCP/IP](https://docs.google.com/document/d/1XUB8rtQBImLVPfIsjZoN2hbmwMor-7Adl_73YLquUoA/edit?usp=sharing)
+15. [IPv6](https://docs.google.com/document/d/1V-rHpi-DYJqHO6boySm_PuvvjLWSBSNFF3fnJWpTIas/edit?usp=sharing)
+16. [Виртуализация и облачные решения. AWS, GCP, Яндекс.Облако, Openstack](https://docs.google.com/document/d/1kGQ_MM-aMg7LFat24JawvR1P24zzCD9uPT0iGAJyIaw/edit?usp=sharing)
+17. [Docker](https://docs.google.com/document/d/1Y9JU68JskSUzBN3LiIcnhpqQRknEj1_8y38cLpG0D3M/edit?usp=sharing)
