@@ -17,3 +17,4 @@
 15. [IPv6](https://docs.google.com/document/d/1V-rHpi-DYJqHO6boySm_PuvvjLWSBSNFF3fnJWpTIas/edit?usp=sharing)
 16. [Виртуализация и облачные решения. AWS, GCP, Яндекс.Облако, Openstack](https://docs.google.com/document/d/1kGQ_MM-aMg7LFat24JawvR1P24zzCD9uPT0iGAJyIaw/edit?usp=sharing)
 17. [Docker](https://docs.google.com/document/d/1Y9JU68JskSUzBN3LiIcnhpqQRknEj1_8y38cLpG0D3M/edit?usp=sharing)
+18. [Terraform](https://docs.google.com/document/d/1e12YNEHPkJqLBzCoRi8N11HD6ybt5WqhADQ7s0yiFfg/edit?usp=sharing)
